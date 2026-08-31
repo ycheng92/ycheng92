@@ -32,4 +32,4 @@ Jul 2022
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ycheng92&show_icons=true&theme=default)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=ycheng92&show_icons=true&theme=default)
