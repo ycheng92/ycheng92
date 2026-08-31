@@ -1,4 +1,5 @@
 ## Hi there 👋
+Been building GitHub portfolio recently and doing a lot of clean up. Might look a bit messy.
 
 ## Recent Projects
 
