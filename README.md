@@ -27,9 +27,3 @@ Feb 2023
 
 ### [kwic-corpus-builder](https://github.com/ycheng92/kwic-corpus-builder)
 Jul 2022
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=ycheng92&show_icons=true&theme=default)
