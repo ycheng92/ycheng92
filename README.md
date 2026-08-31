@@ -2,7 +2,7 @@
 
 ## 🗂 Recent Projects
 
-### [Project A](https://github.com/你的帳號/project-a)
+### [Project A](https://github.com/ycheng92/kwic-corpus-builder)
 
 ---
 
