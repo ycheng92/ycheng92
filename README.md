@@ -1,18 +1,35 @@
 ## Hi there 👋
 
-## 🗂 Recent Projects
+## Recent Projects
 
-### [kwic-corpus-builder](https://github.com/ycheng92/kwic-corpus-builder)
+### [Bachelor Thesis](https://github.com/ycheng92/Bachelor-Thesis)
+Aug 2026
+
+### [fair-match-solver](https://github.com/ycheng92/fair-match-solver)
+Mar 2026
 
 ---
 
-## 📦 Old School Projects
+## Old Intern Projects
 
-### [Project D](https://github.com/你的帳號/project-d)
-早期的專案，一句話描述。
+### [media-entity-relevance-pipeline](https://github.com/ycheng92/media-entity-relevance-pipeline)
+Jul 2025
+
+---
+
+## Old School Projects
+
+### [rl-llm-callibration-test](https://github.com/ycheng92/rl-llm-calibration-test)
+Mar 2024
+
+### [weighted-fst-checker](https://github.com/ycheng92/weighted-fst-spellchecker)
+Feb 2023
+
+### [kwic-corpus-builder](https://github.com/ycheng92/kwic-corpus-builder)
+Jul 2022
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=你的帳號&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ycheng92&show_icons=true&theme=default)
